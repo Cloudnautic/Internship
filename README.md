@@ -9,6 +9,7 @@ Here's a detailed weekly task plan with technical documentation assignments for 
    - Read and understand the company's orientation materials.
    - Set up the development environment and access necessary tools.
    - Install VSCode, Git, Docker, Minikube, Terraform, Jenkins, Chef, Puppet.
+   - Set VM (VMware, Virtual Box) | Linux OS - ubuntu, redhat OS*
 
 2. **Day 3-5: Basics**
    - **AWS**: Set up an AWS account, create IAM users, and assign roles.
